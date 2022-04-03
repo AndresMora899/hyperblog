@@ -10,6 +10,7 @@ Un blog increíble para el [Curso Profesional de Git y GitHub](https://platzi.co
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas prácticas
 - Trucos
-- Y el gran carisma del Profe
+- El gran carisma del Profe
+- Creado por el increíble Platzi Team
 
 Este es un repositorio de ejemplo mientras realizaba los ejercicios del curso, como hacer commits, fusión de ramas, pull & push, etc.
