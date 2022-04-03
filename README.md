@@ -12,5 +12,7 @@ Un blog increíble para el [Curso Profesional de Git y GitHub](https://platzi.co
 - Trucos
 - El gran carisma del Profe
 - Creado por el increíble Platzi Team
+- Incluye ejemplos en Windows, Linux y Mac
+
 
 Este es un repositorio de ejemplo mientras realizaba los ejercicios del curso, como hacer commits, fusión de ramas, pull & push, etc.
